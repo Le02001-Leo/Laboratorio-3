@@ -1,0 +1,2 @@
+ elif abs(invitado - numero_secreto) == 1:#PASO 3
+        print("¡Casi lo logras! Estás muy cerca.")
