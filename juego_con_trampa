@@ -1,1 +1,4 @@
-
+if invitado== -1: #Paso 2 Modo trampa activado
+             print(f"Modo trampa activado: el número secreto es {numero_secreto}")
+             intentos -= 1 # Anulamos el intento
+             continue
